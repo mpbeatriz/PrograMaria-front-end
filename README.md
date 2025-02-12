@@ -1,6 +1,6 @@
 ## PrograMaria Front-End: minha primeira página web
 
-O projeto criado para o curso de front-end da PrograMaria foi um site sobre a Ada Lovelace.
+Esse repositório contém o projeto realizado no curso de front-end da PrograMaria: a interface visual de um site sobre a Ada Lovelace.
 
 * Linguagens utilizadas:
   - HTML;
